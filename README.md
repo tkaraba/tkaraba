@@ -8,7 +8,7 @@
 
 📫 my behance work: [ !Behance](https://www.behance.net/tabitha_karaba)
 
-🔭 my recent project (Screenshot 2024-09-01 at 7.24.56 PM.png) 
+🔭 ![Project Screenshot](path/to/Screenshot-2024-09-01-at-7.24.56-PM.png)
 
 
 <!--
