@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 ## About me
 1. I am in Arizona State University studying Graphic Information Technology
