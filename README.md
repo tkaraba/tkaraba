@@ -8,7 +8,7 @@
 
 📫 my behance work: [ !Behance](https://www.behance.net/tabitha_karaba)
 
-🔭 ![Project Screenshot](image.png)
+🔭my stats ![Project Screenshot](image.png)
 
 
 <!--
